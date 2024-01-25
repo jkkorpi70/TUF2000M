@@ -1,0 +1,20 @@
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000.Properties.Resources.resources
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000.csproj.GenerateResource.cache
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000.csproj.CoreCompileInputs.cache
+C:\Users\Juha\source\repos\TUF2000\TUF2000\bin\Debug\TUF2000.exe.config
+C:\Users\Juha\source\repos\TUF2000\TUF2000\bin\Debug\TUF2000.exe
+C:\Users\Juha\source\repos\TUF2000\TUF2000\bin\Debug\TUF2000.pdb
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000.exe
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000.pdb
+C:\Users\Juha\source\repos\TUF2000\TUF2000\obj\Debug\TUF2000MainForm.Form1.resources
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\bin\Debug\TUF2000.exe.config
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\bin\Debug\TUF2000.exe
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\bin\Debug\TUF2000.pdb
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000.csproj.AssemblyReference.cache
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000MainForm.Form1.resources
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000.Properties.Resources.resources
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000.csproj.GenerateResource.cache
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000.csproj.CoreCompileInputs.cache
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000.exe
+D:\VisualStudio-Backup\TUF2000 19.05.21\TUF2000\obj\Debug\TUF2000.pdb
